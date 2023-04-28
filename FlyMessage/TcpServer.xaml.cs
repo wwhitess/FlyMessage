@@ -43,6 +43,9 @@ namespace FlyMessage
         {
             while (!token.IsCancellationRequested)
             {
+            //Добавление пользователей работает только если у человека
+            //тоже добавлены пользователи. В противном случае -  закомментируйте код
+            //с string name, до Log("accepted")...
                 Log("accepting");
                 var client = await socket.AcceptAsync();
 
