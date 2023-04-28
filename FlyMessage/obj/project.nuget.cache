@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "09QDZYScBv5nNkXMrHuSX05SA7JbCBVXdtvhodt6a+a3sBaqwEkeItNa8rdcLeLcSXtBwv4gQkDfLrtR76yUqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sergey\\source\\repos\\FlyMessage\\FlyMessage\\FlyMessage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sergey\\.nuget\\packages\\materialdesigncolors\\2.1.2\\materialdesigncolors.2.1.2.nupkg.sha512",
+    "C:\\Users\\sergey\\.nuget\\packages\\materialdesignthemes\\4.8.0\\materialdesignthemes.4.8.0.nupkg.sha512",
+    "C:\\Users\\sergey\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
